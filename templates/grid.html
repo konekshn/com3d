@@ -1,0 +1,11 @@
+<div class="container">
+	<div class="row">
+		<div class="positioning">
+		<div ng-repeat="person in persons | filter: query | orderBy: order" class="column-l-3 column-t-3 column-m-12 user-card pos">
+			<img ng-src="{{person.imgsrc}}"/>
+			<p>{{person.name}}</p>
+			<p>{{person.desc}}</p>
+			</div>
+		</div>
+	</div>
+</div>

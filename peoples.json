@@ -1,0 +1,35 @@
+{
+	"peoples": [{
+		"name": "Jessica Kennedy",
+		"desc": "Lorem ipsum dolor adipisicing elit",
+		"imgsrc": "img/cc1.jpg"
+	}, {
+		"name": "Julie Bowmanm",
+		"desc": "Consectetur adipisicing elit.",
+		"imgsrc": "img/cc2.jpg"
+	}, {
+		"name": "Juan Reidones",
+		"desc": "Tempora perferendis soluta.",
+		"imgsrc": "img/cc3.jpg"
+	}, {
+		"name": "Isabella Lusineh",
+		"desc": "Perferendis soluta eaque ipsam.",
+		"imgsrc": "img/cc4.jpg"
+	}, {
+		"name": "Pála Marinda",
+		"desc": "Soluta tempora perferendis eaque ipsam.",
+		"imgsrc": "img/cc5.jpg"
+	}, {
+		"name": "Bernardina Bea",
+		"desc": "Ipsam tempora perferendis soluta eaque.",
+		"imgsrc": "img/cc6.jpg"
+	}, {
+		"name": "Helena Beatris",
+		"desc": "Luicido tempora perferendis soluta eaque.",
+		"imgsrc": "img/cc7.jpg"
+	}, {
+		"name": "Anika Adams",
+		"desc": "Mpora perferendis soluta eaque.",
+		"imgsrc": "img/cc8.jpg"
+	}]
+}

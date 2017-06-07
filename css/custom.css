@@ -1,0 +1,78 @@
+.list-group-item
+{
+	display: inline-block !important;
+	width: 100%;
+	list-style: none;
+}
+
+
+.list-group-item p {
+padding-top: 15px;
+
+}
+
+
+.list-group-item img {
+	height: 40px;
+	border-radius: 50%;
+}
+
+.container {
+	margin-top: 30px;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+
+
+.user-card img{
+	width: 100%;
+
+}
+
+.listgroup {
+	padding-left: 0;
+}
+
+.aligning img {
+	/*margin-top: 20%;*/
+	height: 125px;
+}
+
+/*.positioning {
+	display: inline-block;
+	margin: auto;
+	text-align: center;
+}
+
+.pos {
+	display: inline-block;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.di {
+	display: inline-block;
+	height: 80px;
+}
+
+.topShit {
+	height: 90px;
+}
+.topShit:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.checkbox {
+	float: right;
+	margin-top: -140px!important;
+	margin-left: -80px!important
+}
+
+.orderit { 
+margin-top: 10px;
+float: right;
+}*/

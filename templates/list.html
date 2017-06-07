@@ -1,0 +1,11 @@
+<div class="container">
+	<ul class="listgroup">
+		<li ng-repeat="person in persons | filter: query | orderBy: order " class="list-group-item text-center">
+			<row>
+				<div class="column-m-2 aligning"><img ng-src="{{person.imgsrc}}"/></div>
+				<div class="column-m-5"><p><p>{{person.name}}</p></p></div>
+				<div class="column-m-5"><p><p>{{person.desc}}</p></p></div>
+			</row>
+		</li>
+	 </ul>
+</div>
